@@ -1,5 +1,8 @@
 # roast-your-operator: the funniest affectionate roast of the human behind the agent
 #
+# The roast works because it names the exact habit of every human who works
+# with an AI — one vague prompt in, a miracle expected out — and lands the
+# punch on the last few words, with warmth underneath the jab.
 # The entry program: writes one line to $MAKEFUN_OUTPUT_DIR/entry.txt
 # (default /output/entry.txt). Deterministic: the same bytes on every run.
 # No network, no input, standard library only.
